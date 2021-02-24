@@ -2,9 +2,7 @@ import { Component } from 'react';
 export default class App extends Component {
 	render() {
 		return (
-			<div></div>
-
-			
+			<div>初始化项目</div>
 		)
 	}
 }
